@@ -1,6 +1,6 @@
-a=int(input("Enter value of a")
-b=int(input("Enter value of b")
+a=int(input("Enter value of a"))
+b=int(input("Enter value of b"))
 if (a > b):
-      print(a,"is bigger")
+    print(a,"is bigger")
 else:
-      print(b,"is bigger")
+    print(b,"is bigger")
